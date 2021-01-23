@@ -1,6 +1,4 @@
-### Hi there, I'm [Kevin 'kev_the_webdev' Gulledge][website] 👋 💻
-
----
+# Hi there, I'm [Kevin 'kev_the_webdev' Gulledge][website] 👋 💻
 
 ## I am a Web Developer, an E-commerce Expert, a Social Media Guru, and a UI/UX Designer.
 
@@ -63,9 +61,7 @@ Misc:
 [<img align="left" alt="Twitter" width="22px" style="color: white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="About Me" width="22px" style="color: white;" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-***
-
-:zap: GitHub Stats
+## :zap: GitHub Stats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmgulledge&label=Views&color=orange&style=plastic" alt="kmgulledge" /> </p>
 
