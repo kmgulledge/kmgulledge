@@ -62,11 +62,6 @@ Misc:
 
 ### Connect With Me:
 
-[![Instagram: kev_the_webdev](https://img.shields.io/instagram/follow/kev_the_webdev?style=social&logoColor=white)](https://www.instagram.com/kev_the_webdev/)]
-[![Twitter: kev_the_webdev](https://img.shields.io/twitter/follow/kev_the_webdev?style=social&logoColor=white)](https://twitter.com/kev_the_webdev)]
-[![Linkedin: Kevin Gulledge](https://img.shields.io/badge/-kevingulledge?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-gulledge/)]
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome&logoColor=white)](https://kevingulledge.com/)]
-
 [<img align="left" alt="About Me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -82,19 +77,18 @@ Misc:
 
 :zap: GitHub Stats
 
-<img align="left" alt="kmgulledge's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kmgulledge&show_icons=true&hide_border=true&count_private=true" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kmgulledge&label=Views&color=orange&style=plastic" alt="kmgulledge" /> </p>
 
-<br>
-<ul>
-<li><a href="https://github.com/kmgulledge">
+<p>
+<img align="left" alt="kmgulledge's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kmgulledge&show_icons=true&hide_border=true&count_private=true" /> </p>
+
+<p align="left"> <a href="https://github.com/kmgulledge">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmgulledge&theme=light&hide_langs_below=1" />
-    </a>
-</li>
-<li><a href="https://github.com/kmgulledge">
+    </a> </p>
+
+<p align="left"><a href="https://github.com/kmgulledge">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kmgulledge&show_icons=true&theme=light&line_height=27" />
-    </a>
-</li>
-</ul>
+    </a></p>
 
 [website]: https://www.kevingulledge.com
 [blog]: https://dev.to/n3wt0n
@@ -119,7 +113,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 ### Hi there 👋
 
 <!--
