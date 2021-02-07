@@ -1,6 +1,6 @@
 # Hi there, I'm [Kevin 'kev_the_webdev' Gulledge][website] 👋 💻
 
-## I am a Web Developer, an E-commerce Expert, a Social Media Guru, and a UI/UX Designer.
+## I am a Web Developer.
 
 I am a creative and energetic full stack web developer who specializes in front end development. I have a background in front end design and development, cloud and database management, e-commerce, graphic design, marketing and sales, sales funnels, social media management, seo, and website optimization.
 
@@ -11,6 +11,7 @@ I am a husband to an amazing nurse, a father of 3 amazing and growing kids (2 bo
 - 🔭 I’m currently working on my Github page.
 - 👯 I’m looking to collaborate on a new project.
 - 💬 Ask me about Front End Development.
+- ✉️ [the1kevthewebdev@gmail.com](mailto:the1kevthewebdev@gmail.com "Email Me")
 - ⚡ Fun fact: I get my daily cardio in by chasing around my 2 year old daughter. :joy:
 
 ## Tech Knowledge
@@ -56,7 +57,7 @@ Misc:
 
 ## Connect With Me:
 
-[<img style="color: white;" align="left" alt="Instagram" width="25px" color=" #ffffff !important" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
+[<img align="left" alt="Instagram" width="25px" color=" #ffffff !important" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
 [<img align="left" alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Twitter" width="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="About Me" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
