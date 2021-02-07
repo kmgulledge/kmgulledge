@@ -11,7 +11,7 @@ I am a husband to an amazing nurse, a father of 3 amazing and growing kids (2 bo
 - 🔭 I’m currently working on my Github page.
 - 👯 I’m looking to collaborate on a new project.
 - 💬 Ask me about Front End Development.
-- ✉️ [the1kevthewebdev@gmail.com](mailto:the1kevthewebdev@gmail.com "Email Me")
+- ✉️ Email me about any comments, collaborations, or questions you may have [the1kevthewebdev@gmail.com](mailto:the1kevthewebdev@gmail.com "Email Me")
 - ⚡ Fun fact: I get my daily cardio in by chasing around my 2 year old daughter. :joy:
 
 ## Tech Knowledge
