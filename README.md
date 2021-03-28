@@ -8,8 +8,7 @@ I am a creative and energetic full stack web developer who specializes in front 
 I am a husband to an amazing nurse, a father of 3 amazing and growing kids (2 boys and 1 daughter), and a coffee and fitness junkie. In my spare time (if there is any, ha-ha!) I enjoy spending time with my family and friends, blogging on my instagram, coding on my own projects, drawing and sketching, gaming (xbox one), reading, researching and learning new coding languages, resting, and working out.
 
 ## What I Am Currently Doing
-- 🔭 I’m currently working on my Github page.
-- 👯 I’m looking to collaborate on a new project.
+- 🔭 I’m currently working on a lot of different projects such as social media content, home projects, and many other things.
 - 💬 Ask me about Front End Development.
 - ✉️ Email me about any comments, collaborations, or questions you may have [the1kevthewebdev@gmail.com](mailto:the1kevthewebdev@gmail.com "Email Me")
 - ⚡ Fun fact: I get my daily cardio in by chasing around my 2 year old daughter. :joy:
@@ -35,6 +34,7 @@ Graphic Design | UI Design | UX Design:
 * Adobe Creative Suite
 * Axure / Balsamiq
 * Invision / Sketch
+* Vidoescribe
 * Wireframing
 
 E-Commerce:
